@@ -1,0 +1,2 @@
+C:\Users\Evan\Documents\repos\WindowsDesktopGuide\Debug\WindowsDesktopGuide.exe
+C:\Users\Evan\Documents\repos\WindowsDesktopGuide\Debug\WindowsDesktopGuide.pdb
